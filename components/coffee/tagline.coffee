@@ -1,6 +1,6 @@
 $ = require 'jquery'
 
-do fill = (item = 'The most creative minds in Art') ->
+do fill = (item = 'The real Creative minds in Art') ->
   $('.tagline').append "#{item}"
 fill
-Status API Training Shop Blog About Pricing
+
